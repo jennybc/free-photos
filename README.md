@@ -26,3 +26,8 @@ Here's the abundance of riches I got back:
   * [13 Sources For Free Public Domain and CC0-Licensed Images](http://wptavern.com/13-sources-for-free-public-domain-and-cc0-licensed-images), several of which appear above, h/t [\@TimSteeno](https://twitter.com/TimSteeno)
   * [17 Amazing Sites With Breathtaking Free Stock Photos](https://bootstrapbay.com/blog/free-stock-photos/), several of which appear above, h/t [\@TimSteeno](https://twitter.com/TimSteeno)
    * [Good Free Photos](https://www.goodfreephotos.com) - Thousands of public domain stock photos categorized by geographic location, constantly updated
+   
+Other liberally licensed things:
+
+  * <http://www.iconsdb.com> Free flat one color icons which you can custom color via HEX and even textures. Twitter, GitHub, abstract pie charts, etc etc.
+  * <http://www.1001fonts.com>
